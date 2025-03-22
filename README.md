@@ -56,14 +56,3 @@ The output will show:
 - The AI-generated answer
 - Source references to specific parts of the PDFs
 
-## Project Structure
-
-- `Rag.py`: Main RAG implementation for querying documents
-- `load.py`: Document loading and processing
-- `get_embedding_function.py`: Embedding functionality
-- `data/`: Directory for PDF files
-- `chroma/`: Vector database storage
-
-## Note
-
-Make sure to keep your PDF files in the `data` directory. The system will process them and create embeddings for efficient querying.
