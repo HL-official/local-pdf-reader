@@ -17,7 +17,7 @@ A local PDF reader that uses Retrieval-Augmented Generation (RAG) to answer ques
 
 1. Clone the repository:
 ```bash
-git clone [your-repo-url]
+git clone https://github.com/HL-official/local-pdf-reader.git
 cd local-pdf-reader
 ```
 
